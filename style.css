@@ -1,0 +1,22 @@
+h2
+{
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+#displayname
+{
+font-weight: bold;
+font-size: medium;
+}
+#sortbuton
+{
+  display: none;
+  margin-top: 20px;
+  margin-bottom: 20px;  
+}
+
+input
+{
+    margin: 10px;
+}
